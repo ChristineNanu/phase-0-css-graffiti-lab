@@ -1,1 +1,16 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    box-shadow: 47px;
+    border-bottom: solid;
+    border: 20px;
+    box-shadow: none;
+    position:absolute;
+    margin:50px;
+    height: 700px;
+    background: fixed;
+    position: inherit;
+    width: 1000px;
+    display:flex;
+   
+  }
